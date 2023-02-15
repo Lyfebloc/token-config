@@ -1,0 +1,1946 @@
+{
+  "1": {
+    "0x317472CCb2b741E87bc0F76B4C0c325C80E9D851": {
+      "symbol": "LYFE",
+      "decimals": 18,
+      "balance_slot": 101,
+      "allowance_slot": 102
+    },
+    "0x6b175474e89094c44da98b954eedeac495271d0f": {
+      "symbol": "DAI",
+      "decimals": 18,
+      "balance_slot": 2,
+      "allowance_slot": 3
+    },
+    "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": {
+      "symbol": "WETH",
+      "decimals": 18,
+      "balance_slot": 3,
+      "allowance_slot": 4
+    },
+    "0xdac17f958d2ee523a2206206994597c13d831ec7": {
+      "symbol": "USDT",
+      "decimals": 6,
+      "balance_slot": 2,
+      "allowance_slot": 5
+    },
+    "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48": {
+      "symbol": "USDC",
+      "decimals": 6,
+      "balance_slot": 9,
+      "allowance_slot": 10
+    },
+    "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9": {
+      "symbol": "AAVE",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599": {
+      "symbol": "WBTC",
+      "decimals": 8,
+      "balance_slot": 0,
+      "allowance_slot": 2
+    },
+    "0x111111111117dC0aa78b770fA6A738034120C302": {
+      "symbol": "1INCH",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xAE12C5930881c53715B369ceC7606B70d8EB229f": {
+      "symbol": "C98",
+      "decimals": 18,
+      "balance_slot": 2,
+      "allowance_slot": 3
+    },
+    "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0": {
+      "symbol": "MATIC",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e": {
+      "symbol": "YFI",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x514910771af9ca656af840dff83e8264ecf986ca": {
+      "symbol": "LINK",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0xd26114cd6ee289accf82350c8d8487fedb8a0c07": {
+      "symbol": "OMG",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x41e5560054824ea6b0732e656e3ad64e20e94e45": {
+      "symbol": "CVC",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x0d8775f648430679a709e98d2b0cb6250d2887ef": {
+      "symbol": "BAT",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x5732046a883704404f284ce41ffadd5b007fd668": {
+      "symbol": "BLZ",
+      "decimals": 18,
+      "balance_slot": 4,
+      "allowance_slot": 5
+    },
+    "0xe41d2489571d322189246dafa5ebde1f4699f498": {
+      "symbol": "ZRX",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x0f5d2fb29fb7d3cfee444a200298f468908cc942": {
+      "symbol": "MANA",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec": {
+      "symbol": "POLY",
+      "decimals": 18,
+      "balance_slot": 2,
+      "allowance_slot": 3
+    },
+    "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26": {
+      "symbol": "OGN",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 2
+    },
+    "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c": {
+      "symbol": "ENJ",
+      "decimals": 18,
+      "balance_slot": 7,
+      "allowance_slot": 8
+    },
+    "0x04fa0d235c4abf4bcf4787af4cf447de572ef828": {
+      "symbol": "UMA",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x0a5e677a6a24b2f1a2bf4f3bffc443231d2fdec8": {
+      "symbol": "USX",
+      "decimals": 18,
+      "balance_slot": 52,
+      "allowance_slot": 53
+    },
+    "0x0bfec35a1a3550deed3f6fc76dde7fc412729a91": {
+      "symbol": "XKNCA",
+      "decimals": 18,
+      "balance_slot": 101,
+      "allowance_slot": 102
+    },
+    "0x0c0f2b41f758d66bb8e694693b0f9e6fae726499": {
+      "symbol": "UND",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x0ccd5dd52dee42b171a623478e5261c1eaae092a": {
+      "symbol": "DFM",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x0f17bc9a994b87b5225cfb6a2cd4d667adb4f20b": {
+      "symbol": "jEUR",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x1985365e9f78359a9b6ad760e32412f4a445e862": {
+      "symbol": "REP",
+      "decimals": 18,
+      "balance_slot": 4,
+      "allowance_slot": 5
+    },
+    "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c": {
+      "symbol": "BNT",
+      "decimals": 18,
+      "balance_slot": 5,
+      "allowance_slot": 6
+    },
+    "0x27702a26126e0b3702af63ee09ac4d1a084ef628": {
+      "symbol": "ALEPH",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x408e41876cccdc0f92210600ef50372656052a38": {
+      "symbol": "REN",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0": {
+      "symbol": "DF",
+      "decimals": 18,
+      "balance_slot": 3,
+      "allowance_slot": 4
+    },
+    "0x4575f41308ec1483f3d399aa9a2826d74da13deb": {
+      "symbol": "OXT",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x4d224452801aced8b2f0aebe155379bb5d594381": {
+      "symbol": "APE",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x4fe83213d56308330ec302a8bd641f1d0113a4cc": {
+      "symbol": "NU",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x53dfea0a8cc2a2a2e425e1c174bc162999723ea0": {
+      "symbol": "jCHF",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x60ef10edff6d600cd91caeca04caed2a2e605fe5": {
+      "symbol": "MOCHI",
+      "decimals": 18,
+      "balance_slot": 51,
+      "allowance_slot": 52
+    },
+    "0x656c00e1bcd96f256f224ad9112ff426ef053733": {
+      "symbol": "EFI",
+      "decimals": 18,
+      "balance_slot": 51,
+      "allowance_slot": 52
+    },
+    "0x6810e776880c02933d47db1b9fc05908e5386b96": {
+      "symbol": "GNO",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x6e36556b3ee5aa28def2a8ec3dae30ec2b208739": {
+      "symbol": "BUILD",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x70e8de73ce538da2beed35d14187f6959a8eca96": {
+      "symbol": "XSGD",
+      "decimals": 6,
+      "balance_slot": 7,
+      "allowance_slot": 8
+    },
+    "0x7409856cae628f5d578b285b45669b36e7005283": {
+      "symbol": "jGBP",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x7c5a0ce9267ed19b22f8cae653f198e3e8daf098": {
+      "symbol": "SAN",
+      "decimals": 18,
+      "balance_slot": 3,
+      "allowance_slot": 4
+    },
+    "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0": {
+      "symbol": "wstETH",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x7f3edcdd180dbe4819bd98fee8929b5cedb3adeb": {
+      "symbol": "XTK",
+      "decimals": 18,
+      "balance_slot": 101,
+      "allowance_slot": 102
+    },
+    "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec": {
+      "symbol": "KEEP",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x8daebade922df735c38c80c7ebd708af50815faa": {
+      "symbol": "TBTC",
+      "decimals": 18,
+      "balance_slot": 3,
+      "allowance_slot": 4
+    },
+    "0x9c354503c38481a7a7a51629142963f98ecc12d0": {
+      "symbol": "OGV",
+      "decimals": 18,
+      "balance_slot": 51,
+      "allowance_slot": 52
+    },
+    "0x9f52c8ecbee10e00d9faaac5ee9ba0ff6550f511": {
+      "symbol": "SIPHER",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2": {
+      "symbol": "MKR",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0xae7ab96520de3a18e5e111b5eaab095312d7fe84": {
+      "symbol": "stETH",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xb620be8a1949aa9532e6a3510132864ef9bc3f82": {
+      "symbol": "LFT",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac": {
+      "symbol": "STORJ",
+      "decimals": 8,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0xba100000625a3754423978a60c9317c58a424e3d": {
+      "symbol": "BAL",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55": {
+      "symbol": "BAND",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd": {
+      "symbol": "LRC",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 3
+    },
+    "0xbcd515d6c5de70d3a31d999a7fa6a299657de294": {
+      "symbol": "RICE",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xbe9375c6a420d2eeb258962efb95551a5b722803": {
+      "symbol": "STMX",
+      "decimals": 18,
+      "balance_slot": 5,
+      "allowance_slot": 6
+    },
+    "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72": {
+      "symbol": "ENS",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xc285b7e09a4584d027e5bc36571785b515898246": {
+      "symbol": "CUSD",
+      "decimals": 18,
+      "balance_slot": 4,
+      "allowance_slot": 5
+    },
+    "0xc944e90c64b2c07662a292be6244bdf05cda44a7": {
+      "symbol": "GRT",
+      "decimals": 18,
+      "balance_slot": 2,
+      "allowance_slot": 3
+    },
+    "0xc9fe6e1c76210be83dc1b5b20ec7fd010b0b1d15": {
+      "symbol": "FRIN",
+      "decimals": 18,
+      "balance_slot": 3,
+      "allowance_slot": 4
+    },
+    "0xcc8fa225d80b9c7d42f96e9570156c65d6caaa25": {
+      "symbol": "SLP",
+      "decimals": 0,
+      "balance_slot": 4,
+      "allowance_slot": 5
+    },
+    "0xd7dcd9b99787c619b4d57979521258d1a7267ad7": {
+      "symbol": "EVRY",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xdb25f211ab05b1c97d595516f45794528a807ad8": {
+      "symbol": "EURS",
+      "decimals": 2,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xdd974d5c2e2928dea5f71b9825b8b646686bd200": {
+      "symbol": "KNCL",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202": {
+      "symbol": "KNC",
+      "decimals": 18,
+      "balance_slot": 101,
+      "allowance_slot": 102
+    },
+    "0xebd9d99a3982d547c5bb4db7e3b1f9f14b67eb83": {
+      "symbol": "ID",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0xec67005c4e498ec7f55e092bd1d35cbc47c91892": {
+      "symbol": "MLN",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa": {
+      "symbol": "ORBS",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 3
+    }
+  },
+  "137": {
+    "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063": {
+      "symbol": "DAI",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x1c954e8fe737f99f68fa1ccda3e51ebdb291948c": {
+      "symbol": "KNC",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xc2132d05d31c914a87c6611c10748aeb04b58e8f": {
+      "symbol": "USDT",
+      "decimals": 6,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x2791bca1f2de4661ed88a30c99a7a9449aa84174": {
+      "symbol": "USDC",
+      "decimals": 6,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270": {
+      "symbol": "WMATIC",
+      "decimals": 18,
+      "balance_slot": 3,
+      "allowance_slot": 4
+    },
+    "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619": {
+      "symbol": "WETH",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x00e5646f60ac6fb446f621d146b6e1886f002905": {
+      "symbol": "RAI",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x013f9c3fac3e2759d7e90aca4f9540f75194a0d7": {
+      "symbol": "USDN",
+      "decimals": 18,
+      "balance_slot": 5,
+      "allowance_slot": 8
+    },
+    "0x0621d647cecbfb64b79e44302c1933cb4f27054d": {
+      "symbol": "AMP",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x0b220b82f3ea3b7f6d9a1d8ab58930c064a2b5bf": {
+      "symbol": "GLM",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a": {
+      "symbol": "SUSHI",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x0c51f415cf478f8d08c246a6c6ee180c5dc3a012": {
+      "symbol": "HOT",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x1b815d120b3ef02039ee11dc2d33de7aa4a8c603": {
+      "symbol": "WOO",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6": {
+      "symbol": "WBTC",
+      "decimals": 8,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x1eba4b44c4f8cc2695347c6a78f0b7a002d26413": {
+      "symbol": "UND",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x22a31bd4cb694433b6de19e0acc2899e553e9481": {
+      "symbol": "MMF",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x2760e46d9bb43dafcbecaad1f64b93207f9f0ed7": {
+      "symbol": "MVX",
+      "decimals": 18,
+      "balance_slot": 5,
+      "allowance_slot": 6
+    },
+    "0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b": {
+      "symbol": "AVAX",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x2e1ad108ff1d8c782fcbbb89aad783ac49586756": {
+      "symbol": "TUSD",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x3066818837c5e6ed6601bd5a91b0762877a6b731": {
+      "symbol": "UMA",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7": {
+      "symbol": "GHST",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x3962f4a0a0051dcce0be73a7e09cef5756736712": {
+      "symbol": "LPT",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x3a3e7650f8b9f667da98f236010fbf44ee4b2975": {
+      "symbol": "XUSD",
+      "decimals": 18,
+      "balance_slot": 2,
+      "allowance_slot": 3
+    },
+    "0x3a58a54c066fdc0f2d55fc9c89f0415c92ebf3c4": {
+      "symbol": "stMATIC",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x3cef98bb43d732e2f285ee605a8158cde967d219": {
+      "symbol": "BAT",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x3dc7b06dd0b1f08ef9acbbd2564f8605b4868eea": {
+      "symbol": "XDO",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x41b3966b4ff7b427969ddf5da3627d6aeae9a48e": {
+      "symbol": "NEXO",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x4e3decbb3645551b8a19f0ea1678079fcb33fb4c": {
+      "symbol": "jEUR",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39": {
+      "symbol": "LINK",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x553d3d295e0f695b9228246232edf400ed3560b5": {
+      "symbol": "PAXG",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x580a84c73811e1839f75d86d75d88cca0c241ff4": {
+      "symbol": "QI",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x5c4b7ccbf908e64f32e12c6650ec0c96d717f03f": {
+      "symbol": "BNB",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x5fe2b58c013d7601147dcdd68c143a77499f5531": {
+      "symbol": "GRT",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x5ffd62d3c3ee2e81c00a7b9079fb248e7df024a8": {
+      "symbol": "GNO",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x60138efceb1f7d8e10c8cb89bb61bbdbeebb4ffc": {
+      "symbol": "RICE",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x61299774020da444af134c82fa83e3810b309991": {
+      "symbol": "RNDR",
+      "decimals": 18,
+      "balance_slot": 51,
+      "allowance_slot": 52
+    },
+    "0x6f3b3286fd86d8b47ec737ceb3d0d354cc657b3e": {
+      "symbol": "PAX",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x6f7c932e7684666c9fd1d44527765433e01ff61d": {
+      "symbol": "MKR",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x767058f11800fba6a682e73a6e79ec5eb74fac8c": {
+      "symbol": "jGBP",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x76bf0c28e604cc3fe9967c83b3c3f31c213cfe64": {
+      "symbol": "CRYSTL",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x7dff46370e9ea5f0bad3c4e29711ad50062ea7a4": {
+      "symbol": "SOL",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x80c0cbdb8d0b190238795d376f0bd57fd40525f2": {
+      "symbol": "WONE",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x84e1670f61347cdaed56dcc736fb990fbb47ddc1": {
+      "symbol": "LRC",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x9111d6446ac5b88a84cf06425c6286658368542f": {
+      "symbol": "FLAG-PoS",
+      "decimals": 18,
+      "balance_slot": 51,
+      "allowance_slot": 52
+    },
+    "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3": {
+      "symbol": "BAL",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x9c2c5fd7b07e95ee044ddeba0e97a665f142394f": {
+      "symbol": "1INCH",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x9f994e2783b44c83204377589854a17c6b0c226d": {
+      "symbol": "RIGY",
+      "decimals": 18,
+      "balance_slot": 3,
+      "allowance_slot": 4
+    },
+    "0xa3fa99a148fa48d14ed51d610c367c61876997f1": {
+      "symbol": "MAI",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xb33eaad8d922b1083446dc23f610c2567fb5180f": {
+      "symbol": "UNI",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xb85517b87bf64942adf3a0b9e4c71e4bc5caa4e5": {
+      "symbol": "FTM",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0xbbba073c31bf03b8acf7c28ef0738decf3695683": {
+      "symbol": "Sand",
+      "decimals": 18,
+      "balance_slot": 5,
+      "allowance_slot": 6
+    },
+    "0xbd1463f02f61676d53fd183c2b19282bff93d099": {
+      "symbol": "jCHF",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xc1c93d475dc82fe72dbc7074d55f5a734f8ceeae": {
+      "symbol": "PGX",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xc25351811983818c9fe6d8c580531819c8ade90f": {
+      "symbol": "IDLE",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xc26d47d5c33ac71ac5cf9f776d63ba292a4f7842": {
+      "symbol": "BNT",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xc3c7d422809852031b44ab29eec9f1eff2a58756": {
+      "symbol": "LDO",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xc8a94a3d3d2dabc3c1caffffdca6a7543c3e3e65": {
+      "symbol": "GUSD",
+      "decimals": 2,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xcb059c5573646047d6d88dddb87b745c18161d3b": {
+      "symbol": "POLY",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xcc1b9517460d8ae86fe576f614d091fca65a28fc": {
+      "symbol": "VIS",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xd6df932a45c0f255f85145f286ea0b292b21c90b": {
+      "symbol": "AAVE",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xe0339c80ffde91f3e20494df88d4206d86024cdf": {
+      "symbol": "ELON",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xe06bd4f5aac8d0aa337d13ec88db6defc6eaeefe": {
+      "symbol": "IXT",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xf1938ce12400f9a761084e7a80d37e732a4da056": {
+      "symbol": "CHZ",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xf2d8124b8f9267dad61351c7ad252362880c6638": {
+      "symbol": "WCRO",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0xf8f9efc0db77d8881500bb06ff5d6abc3070e695": {
+      "symbol": "SYN",
+      "decimals": 18,
+      "balance_slot": 101,
+      "allowance_slot": 102
+    },
+    "0xfad65eb62a97ff5ed91b23afd039956aaca6e93b": {
+      "symbol": "HT",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xfbbd93fc3be8b048c007666af4846e4a36bacc95": {
+      "symbol": "RIKEN",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0xffa4d863c96e743a2e1513824ea006b8d0353c57": {
+      "symbol": "USDD",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    }
+  },
+  "43114": {
+    "0xd586e7f844cea2f87f50152665bcbc2c279d8d70": {
+      "symbol": "DAI.e",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7": {
+      "symbol": "USDT",
+      "decimals": 6,
+      "balance_slot": 51,
+      "allowance_slot": 52
+    },
+    "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e": {
+      "symbol": "USDC",
+      "decimals": 6,
+      "balance_slot": 9,
+      "allowance_slot": 10
+    },
+    "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619": {
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270": {
+      "symbol": "WAVAX",
+      "decimals": 18,
+      "balance_slot": 3,
+      "allowance_slot": 4
+    },
+    "0x0da67235dd5787d67955420c84ca1cecd4e5bb3b": {
+      "symbol": "wMEMO",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x0f577433bf59560ef2a79c124e9ff99fca258948": {
+      "symbol": "MONEY",
+      "decimals": 18,
+      "balance_slot": 6,
+      "allowance_slot": 7
+    },
+    "0x111111111111ed1d73f860f57b2798b683f2d325": {
+      "symbol": "YUSD",
+      "decimals": 18,
+      "balance_slot": 3,
+      "allowance_slot": 4
+    },
+    "0x19860ccb0a68fd4213ab9d8266f7bbf05a8dde98": {
+      "symbol": "BUSD.e",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x249848beca43ac405b8102ec90dd5f22ca513c06": {
+      "symbol": "CRV.e",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x260bbf5698121eb85e7a74f2e45e16ce762ebe11": {
+      "symbol": "UST",
+      "decimals": 6,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x37b608519f91f70f2eeb0e5ed9af4061722e4f76": {
+      "symbol": "SUSHI.e",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x3b55e45fd6bd7d4724f5c47e0d1bcaedd059263e": {
+      "symbol": "MAI",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x3bd2b1c7ed8d396dbb98ded3aebb41350a5b2339": {
+      "symbol": "UMA.e",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab": {
+      "symbol": "WETH.e",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x50b7545627a5162f82a992c33b87adc75187b218": {
+      "symbol": "WBTC.e",
+      "decimals": 8,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x5947bb275c521040051d82396192181b413227a3": {
+      "symbol": "LINK.e",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x596fa47043f99a4e0f122243b841e55375cde0d2": {
+      "symbol": "ZRX.e",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x5c49b268c9841aff1cc3b0a418ff5c3442ee3f3b": {
+      "symbol": "MAI",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x62edc0692bd897d2295872a9ffcac5425011c661": {
+      "symbol": "GMX",
+      "decimals": 18,
+      "balance_slot": 5,
+      "allowance_slot": 6
+    },
+    "0x63a72806098bd3d9520cc43356dd78afe5d386d9": {
+      "symbol": "AAVE.e",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x77777777777d4554c39223c354a05825b2e8faa3": {
+      "symbol": "YETI",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x88128fd4b259552a9a1d457f435a6527aab72d42": {
+      "symbol": "MKR.e",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x8a0cac13c7da965a312f08ea4229c37869e85cb9": {
+      "symbol": "GRT.e",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x8ebaf22b6f053dffeaf46f4dd9efa95d89ba8580": {
+      "symbol": "UNI.e",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x938fe3788222a74924e062120e7bfac829c719fb": {
+      "symbol": "APEIN",
+      "decimals": 18,
+      "balance_slot": 51,
+      "allowance_slot": 52
+    },
+    "0x961c8c0b1aad0c0b10a51fef6a867e3091bcef17": {
+      "symbol": "DYP",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x98443b96ea4b0858fdf3219cd13e98c7a4690588": {
+      "symbol": "BAT.e",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x9eaac1b23d935365bd7b542fe22ceee2922f52dc": {
+      "symbol": "YFI.e",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7": {
+      "symbol": "WAVAX",
+      "decimals": 18,
+      "balance_slot": 3,
+      "allowance_slot": 4
+    },
+    "0xb54f16fb19478766a268f172c9480f8da1a7c9c3": {
+      "symbol": "TIME",
+      "decimals": 9,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xb599c3590f42f8f995ecfa0f85d2980b76862fc1": {
+      "symbol": "UST",
+      "decimals": 6,
+      "balance_slot": 5,
+      "allowance_slot": 6
+    },
+    "0xc3048e19e76cb9a3aa9d77d8c03c29fc906e2437": {
+      "symbol": "COMP.e",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xc7b5d72c836e718cda8888eaf03707faef675079": {
+      "symbol": "SWAP.e",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xd1c3f94de7e5b45fa4edbba472491a9f4b166fc4": {
+      "symbol": "XAVA",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xd501281565bf7789224523144fe5d98e8b28f267": {
+      "symbol": "1INCH.e",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xe19a1684873fab5fb694cfd06607100a632ff21c": {
+      "symbol": "BAVA",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xe7dda817b449a05bcb55daef2b2e8c095ad80993": {
+      "symbol": "TMV-BT",
+      "decimals": 18,
+      "balance_slot": 101,
+      "allowance_slot": 102
+    }
+  },
+  "56": {
+    "0xfe56d5892bdffc7bf58f2e84be1b2c32d21c308b": {
+      "symbol": "KNC",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3": {
+      "symbol": "DAI",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x2170ed0880ac9a755fd29b2688956bd959f933f8": {
+      "symbol": "WETH",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x55d398326f99059ff775485246999027b3197955": {
+      "symbol": "USDT",
+      "decimals": 6,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d": {
+      "symbol": "USDC",
+      "decimals": 6,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0xfb6115445bff7b52feb98650c87f44907e58f802": {
+      "symbol": "AAVE",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x111111111117dc0aa78b770fa6a738034120c302": {
+      "symbol": "1INCH",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xaec945e04baf28b135fa7c640f624f8d90f1c3a6": {
+      "symbol": "C98",
+      "decimals": 18,
+      "balance_slot": 2,
+      "allowance_slot": 3
+    },
+    "0xcc42724c6683b7e57334c4e856f4c9965ed682bd": {
+      "symbol": "MATIC",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd": {
+      "symbol": "LINK",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x935a544bf5816e3a7c13db2efe3009ffda0acda2": {
+      "symbol": "BLZ",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x2222227e22102fe3322098e4cbfe18cfebd57c95": {
+      "symbol": "TLM",
+      "decimals": 4,
+      "balance_slot": 8,
+      "allowance_slot": 9
+    },
+    "0x261c94f2d3cccae76f86f6c8f2c93785dd6ce022": {
+      "symbol": "ATH",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x3019bf2a2ef8040c242c9a4c5c4bd4c81678b2a1": {
+      "symbol": "GMT",
+      "decimals": 8,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x3910db0600ea925f63c36ddb1351ab6e2c6eb102": {
+      "symbol": "SPARTA",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x393c44a497706dde15996bb0c7bdf691a79de38a": {
+      "symbol": "FBL",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x3944ac66b9b9b40a6474022d6962b6caa001b5e3": {
+      "symbol": "EBA",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x3f56e0c36d275367b8c502090edf38289b3dea0d": {
+      "symbol": "MAI",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x4a9a2b2b04549c3927dd2c9668a5ef3fca473623": {
+      "symbol": "DF",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x5fdab5bdbad5277b383b3482d085f4bfef68828c": {
+      "symbol": "DFH",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x633237c6fa30fae46cc5bb22014da30e50a718cc": {
+      "symbol": "FIWA",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x7083609fce4d1d8dc0c979aab8c869ea2c873402": {
+      "symbol": "DOT",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0": {
+      "symbol": "AXS",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x85eac5ac2f758618dfa09bdbe0cf174e7d574d5b": {
+      "symbol": "TRX",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x92da433da84d58dfe2aade1943349e491cbd6820": {
+      "symbol": "RDR",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xb46049c79d77ff1d555a67835fba6978536581af": {
+      "symbol": "MFO",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xb5102cee1528ce2c760893034a4603663495fd72": {
+      "symbol": "USX",
+      "decimals": 18,
+      "balance_slot": 52,
+      "allowance_slot": 53
+    },
+    "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c": {
+      "symbol": "WBNB",
+      "decimals": 18,
+      "balance_slot": 3,
+      "allowance_slot": 4
+    },
+    "0xc04a23149efdf9a63697f3eb60705147e9f07ffd": {
+      "symbol": "GENI",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xcf909ef9a61dc5b05d46b5490a9f00d51c40bb28": {
+      "symbol": "RICE",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xd07e82440a395f3f3551b42da9210cd1ef4f8b24": {
+      "symbol": "PRL",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xdbccd9131405dd1fe7320090af337952b9845dfa": {
+      "symbol": "BOT",
+      "decimals": 8,
+      "balance_slot": 5,
+      "allowance_slot": 6
+    },
+    "0xe7c04392a3a426d532f83ca968bcc0341e99583d": {
+      "symbol": "UND",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xe8176d414560cfe1bf82fd73b986823b89e4f545": {
+      "symbol": "HERO",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xe9e7cea3dedca5984780bafc599bd69add087d56": {
+      "symbol": "BUSD",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0xee89bd9af5e72b19b48cac3e51acde3a09a3ade3": {
+      "symbol": "TRUSTK",
+      "decimals": 18,
+      "balance_slot": 5,
+      "allowance_slot": 7
+    },
+    "0xf018aea0a08a5d88674f0837bdac27ab89824dee": {
+      "symbol": "MMG",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xfa4ba88cf97e282c505bea095297786c16070129": {
+      "symbol": "CUSD",
+      "decimals": 18,
+      "balance_slot": 4,
+      "allowance_slot": 5
+    }
+  },
+  "10": {
+    "0x00f932f0fe257456b32deda4758922e56a4f4b42": {
+      "symbol": "PAPER",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x0994206dfe8de6ec6920ff4d779b0d950605fb53": {
+      "symbol": "CRV",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x117cfd9060525452db4a34d51c0b3b7599087f05": {
+      "symbol": "GYSR",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x1da650c3b2daa8aa9ff6f661d4156ce24d08a062": {
+      "symbol": "DCN",
+      "decimals": 0,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x1eba7a6a72c894026cd654ac5cdcf83a46445b08": {
+      "symbol": "GTC",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x1f32b1c2345538c0c6f582fcb022739c4a194ebb": {
+      "symbol": "wstETH",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x217d47011b23bb961eb6d93ca9945b7501a5bb11": {
+      "symbol": "THALES",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x2e3d870790dc77a83dd1d18184acc7439a53f475": {
+      "symbol": "FRAX",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6": {
+      "symbol": "LINK",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x3c8b650257cfb5f272f799f5e2b4e65093a11a05": {
+      "symbol": "VELO",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x3e7ef8f50246f725885102e8238cbba33f276747": {
+      "symbol": "BOND",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x4200000000000000000000000000000000000006": {
+      "symbol": "WETH",
+      "decimals": 18,
+      "balance_slot": 3,
+      "allowance_slot": 4
+    },
+    "0x4200000000000000000000000000000000000042": {
+      "symbol": "OP",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x5029c236320b8f15ef0a657054b84d90bfbeded3": {
+      "symbol": "BitANT",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x50c5725949a6f0c72e6c4a641f24049a917db0cb": {
+      "symbol": "LYRA",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x65559aa14915a70190438ef90104769e5e890a00": {
+      "symbol": "ENS",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x67ccea5bb16181e7b4109c9c2143c24a1c2205be": {
+      "symbol": "FXS",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x68f180fcce6836688e9084f035309e29bf0a2095": {
+      "symbol": "WBTC",
+      "decimals": 8,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x6fd9d7ad17242c41f7131d257212c54a0e816691": {
+      "symbol": "UNI",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x76fb31fb4af56892a25e32cfc43de717950c9278": {
+      "symbol": "AAVE",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x7b0bcc23851bbf7601efc9e9fe532bf5284f65d3": {
+      "symbol": "EST",
+      "decimals": 18,
+      "balance_slot": 4,
+      "allowance_slot": 5
+    },
+    "0x7c6b91d9be155a6db01f749217d76ff02a7227f2": {
+      "symbol": "SARCO",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x7f5c764cbc14f9669b88837ca1490cca17c31607": {
+      "symbol": "USDC",
+      "decimals": 6,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x7fb688ccf682d58f86d7e38e03f9d22e7705448b": {
+      "symbol": "RAI",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x8ae125e8653821e851f12a49f7765db9a9ce7384": {
+      "symbol": "DOLA",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58": {
+      "symbol": "USDT",
+      "decimals": 6,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x9bcef72be871e61ed4fbbc7630889bee758eb81d": {
+      "symbol": "rETH",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x9e1028f5f1d5ede59748ffcee5532509976840e0": {
+      "symbol": "PERP",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xab7badef82e9fe11f6f33f87bc9bc2aa27f2fcb5": {
+      "symbol": "MKR",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xaf9fe3b5ccdae78188b1f8b9a49da7ae9510f151": {
+      "symbol": "DHT",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xb548f63d4405466b36c0c0ac3318a22fdcec711a": {
+      "symbol": "RGT",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xba28feb4b6a6b81e3f26f08b83a19e715c4294fd": {
+      "symbol": "UST",
+      "decimals": 6,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xbfd291da8a403daaf7e5e9dc1ec0aceacd4848b9": {
+      "symbol": "USX",
+      "decimals": 18,
+      "balance_slot": 52,
+      "allowance_slot": 53
+    },
+    "0xc40f949f8a4e094d1b49a23ea9241d289b7b2819": {
+      "symbol": "LUSD",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xc98b98d17435aa00830c87ea02474c5007e1f272": {
+      "symbol": "BitBTC",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xcfd1d50ce23c46d3cf6407487b2f8934e96dc8f9": {
+      "symbol": "SPANK",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1": {
+      "symbol": "DAI",
+      "decimals": 18,
+      "balance_slot": 2,
+      "allowance_slot": 3
+    },
+    "0xdfa46478f9e5ea86d57387849598dbfb2e964b02": {
+      "symbol": "MAI",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0xe0bb0d3de8c10976511e5030ca403dbf4c25165b": {
+      "symbol": "0xBTC",
+      "decimals": 8,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xe4f27b04cc7729901876b44f4eaa5102ec150265": {
+      "symbol": "XCHF",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xf98dcd95217e15e05d8638da4c91125e59590b07": {
+      "symbol": "KROM",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xfdb794692724153d1488ccdbe0c56c252596735f": {
+      "symbol": "LDO",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xfe8b128ba8c78aabc59d4c64cee7ff28e9379921": {
+      "symbol": "BAL",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    }
+  },
+  "42161": {
+    "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9": {
+      "symbol": "USDT",
+      "decimals": 6,
+      "balance_slot": 51,
+      "allowance_slot": 52
+    },
+    "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8": {
+      "symbol": "USDC",
+      "decimals": 6,
+      "balance_slot": 51,
+      "allowance_slot": 52
+    },
+    "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1": {
+      "symbol": "DAI",
+      "decimals": 18,
+      "balance_slot": 2,
+      "allowance_slot": 3
+    },
+    "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f": {
+      "symbol": "WBTC",
+      "decimals": 8,
+      "balance_slot": 51,
+      "allowance_slot": 52
+    },
+    "0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a": {
+      "symbol": "MIM",
+      "decimals": 18,
+      "balance_slot": 2,
+      "allowance_slot": 16
+    },
+    "0x9d2f299715d94d8a7e6f5eaa8e654e8c74a988a7": {
+      "symbol": "FXS",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x82af49447d8a07e3bd95bd0d56f35241523fbab1": {
+      "symbol": "WETH",
+      "decimals": 18,
+      "balance_slot": 51,
+      "allowance_slot": 52
+    },
+    "0x6694340fc020c5e6b96567843da2df01b2ce1eb6": {
+      "symbol": "STG",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x68ead55c258d6fa5e46d67fc90f53211eab885be": {
+      "symbol": "POP",
+      "decimals": 18,
+      "balance_slot": 51,
+      "allowance_slot": 52
+    },
+    "0x3f56e0c36d275367b8c502090edf38289b3dea0d": {
+      "symbol": "MAI",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x5979d7b546e38e414f7e9822514be443a4800529": {
+      "symbol": "wstETH",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x080f6aed32fc474dd5717105dba5ea57268f46eb": {
+      "symbol": "SYN",
+      "decimals": 18,
+      "balance_slot": 101,
+      "allowance_slot": 102
+    },
+    "0x13ad51ed4f1b7e9dc168d8a00cb3f4ddd85efa60": {
+      "symbol": "LDO",
+      "decimals": 18,
+      "balance_slot": 51,
+      "allowance_slot": 52
+    },
+    "0x1622bf67e6e5747b81866fe0b85178a93c7f86e3": {
+      "symbol": "UMAMI",
+      "decimals": 9,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xe4dddfe67e7164b0fe14e218d80dc4c08edc01cb": {
+      "symbol": "KNC",
+      "decimals": 18,
+      "balance_slot": 51,
+      "allowance_slot": 52
+    }
+  },
+  "250": {
+    "0x080f6aed32fc474dd5717105dba5ea57268f46eb": {
+      "symbol": "SYN",
+      "decimals": 18,
+      "balance_slot": 101,
+      "allowance_slot": 102
+    },
+    "0x13ad51ed4f1b7e9dc168d8a00cb3f4ddd85efa60": {
+      "symbol": "LDO",
+      "decimals": 18,
+      "balance_slot": 51,
+      "allowance_slot": 52
+    },
+    "0x1622bf67e6e5747b81866fe0b85178a93c7f86e3": {
+      "symbol": "UMAMI",
+      "decimals": 9,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f": {
+      "symbol": "WBTC",
+      "decimals": 8,
+      "balance_slot": 51,
+      "allowance_slot": 52
+    },
+    "0x316772cfec9a3e976fde42c3ba21f5a13aaaff12": {
+      "symbol": "mKNC",
+      "decimals": 18,
+      "balance_slot": 2,
+      "allowance_slot": 12
+    },
+    "0x3f56e0c36d275367b8c502090edf38289b3dea0d": {
+      "symbol": "MAI",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x5979d7b546e38e414f7e9822514be443a4800529": {
+      "symbol": "wstETH",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x6694340fc020c5e6b96567843da2df01b2ce1eb6": {
+      "symbol": "STG",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x68ead55c258d6fa5e46d67fc90f53211eab885be": {
+      "symbol": "POP",
+      "decimals": 18,
+      "balance_slot": 51,
+      "allowance_slot": 52
+    },
+    "0x82af49447d8a07e3bd95bd0d56f35241523fbab1": {
+      "symbol": "WETH",
+      "decimals": 18,
+      "balance_slot": 51,
+      "allowance_slot": 52
+    },
+    "0x99c409e5f62e4bd2ac142f17cafb6810b8f0baae": {
+      "symbol": "BIFI",
+      "decimals": 18,
+      "balance_slot": 2,
+      "allowance_slot": 16
+    },
+    "0x9d2f299715d94d8a7e6f5eaa8e654e8c74a988a7": {
+      "symbol": "FXS",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1": {
+      "symbol": "DAI",
+      "decimals": 18,
+      "balance_slot": 2,
+      "allowance_slot": 3
+    },
+    "0x317472CCb2b741E87bc0F76B4C0c325C80E9D851": {
+      "symbol": "LYFE",
+      "decimals": 18,
+      "balance_slot": 51,
+      "allowance_slot": 52
+    },
+    "0xf97f4df75117a78c1a5a0dbb814af92458539fb4": {
+      "symbol": "LINK",
+      "decimals": 18,
+      "balance_slot": 51,
+      "allowance_slot": 52
+    },
+    "0xfa5ed56a203466cbbc2430a43c66b9d8723528e7": {
+      "symbol": "agEUR",
+      "decimals": 18,
+      "balance_slot": 51,
+      "allowance_slot": 52
+    },
+    "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a": {
+      "symbol": "GMX",
+      "decimals": 18,
+      "balance_slot": 5,
+      "allowance_slot": 6
+    },
+    "0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a": {
+      "symbol": "MIM",
+      "decimals": 18,
+      "balance_slot": 2,
+      "allowance_slot": 16
+    },
+    "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8": {
+      "symbol": "USDC",
+      "decimals": 6,
+      "balance_slot": 51,
+      "allowance_slot": 52
+    }
+  },
+  "25": {
+    "0x00d7699b71290094ccb1a5884cd835bd65a78c17": {
+      "symbol": "VERSA",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x062e66477faf219f25d27dced647bf57c3107d52": {
+      "symbol": "WBTC",
+      "decimals": 8,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x10c9284e6094b71d3ce4e38b8bffc668199da677": {
+      "symbol": "MIMAS",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x2ae35c8e3d4bd57e8898ff7cd2bbff87166ef8cb": {
+      "symbol": "MAI",
+      "decimals": 18,
+      "balance_slot": 3,
+      "allowance_slot": 4
+    },
+    "0x2d03bece6747adc00e1a131bba1469c15fd11e03": {
+      "symbol": "VVS",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23": {
+      "symbol": "WCRO",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x66e428c3f67a68878562e79a0234c1f83c208770": {
+      "symbol": "USDT",
+      "decimals": 6,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x83b2ac8642ae46fc2823bc959ffeb3c1742c48b5": {
+      "symbol": "DARK",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x97749c9b61f878a880dfe312d2594ae07aed7656": {
+      "symbol": "MMF",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xadbd1231fb360047525bedf962581f3eee7b49fe": {
+      "symbol": "CRONA",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xb888d8dd1733d72681b30c00ee76bde93ae7aa93": {
+      "symbol": "ATOM",
+      "decimals": 6,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xbed48612bc69fa1cab67052b42a95fb30c1bcfee": {
+      "symbol": "SHIB",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xc21223249ca28397b4b6541dffaecc539bff0c59": {
+      "symbol": "USDC",
+      "decimals": 6,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xcbde0e17d14f49e10a10302a32d17ae88a7ecb8b": {
+      "symbol": "CRYSTL",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xe44fd7fcb2b1581822d0c862b68222998a0c299a": {
+      "symbol": "WETH",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 0
+    },
+    "0xe6801928061cdbe32ac5ad0634427e140efd05f9": {
+      "symbol": "BIFI",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xf2001b145b43032aaf5ee2884e456ccd805f677d": {
+      "symbol": "DAI",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    }
+  },
+  "199": {
+    "0x17f235fd5974318e4e2a5e37919a209f7c37a6d1": {
+      "symbol": "USDD_t",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x185a4091027e2db459a2433f85f894dc3013aeb5": {
+      "symbol": "BNB",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x43559B1786C06d6B826e3cf9AA667eD8840f9106": {
+      "symbol": "ADA_b",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x5d9a3948a688aa40b5f2e1ab58b80872fff038a7": {
+      "symbol": "XMN",
+      "decimals": 9,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x8d193c6efa90bcff940a98785d1ce9d093d3dc8a": {
+      "symbol": "WBTT",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x9b5f27f6ea9bbd753ce3793a07cba3c74644330d": {
+      "symbol": "USDT_b",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xa20dfb01dca223c0e52b0d4991d4afa7e08e3a50": {
+      "symbol": "ETH_b",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xb09349ddd39454d539edc17fc68ecc50e8e13377": {
+      "symbol": "HYBERBTT",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xca424b845497f7204d9301bd13ff87c0e2e86fcf": {
+      "symbol": "USDC_b",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xcbb9edf6775e39748ea6483a7fa6a385cd7e9a4e": {
+      "symbol": "BTT_b",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xdb28719f7f938507dbfe4f0eae55668903d34a15": {
+      "symbol": "USDT_t",
+      "decimals": 6,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xE86c326E9A97C3fb6086d22Ca396013D62Bfecca": {
+      "symbol": "UNI_e",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xedf53026aea60f8f75fca25f8830b7e2d6200662": {
+      "symbol": "TRX",
+      "decimals": 6,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    }
+  }
+}
